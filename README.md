@@ -7,6 +7,6 @@ Proyecto realizado utilizando Apache NetBeans IDE, MySQL, PHPMyAdmin, realizado 
 
 Imagenes:
 
-(https://github.com/CarlosRodrigo2002/Proyecto-de-Ventas-para-Farmacia/blob/main/preview/login.png?raw=true)
+![img1](https://github.com/CarlosRodrigo2002/Proyecto-de-Ventas-para-Farmacia/blob/main/preview/login.png?raw=true)
 
-(https://github.com/CarlosRodrigo2002/Proyecto-de-Ventas-para-Farmacia/blob/main/preview/sistema.png?raw=true)
+![img2](https://github.com/CarlosRodrigo2002/Proyecto-de-Ventas-para-Farmacia/blob/main/preview/sistema.png?raw=true)
